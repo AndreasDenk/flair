@@ -7,7 +7,7 @@ sentence: Sentence = Sentence("George Washington went to Washington .")
 tagger.predict(sentence)
 
 
-print("Analysing sentence %s“ % sentence)
+
 
 print("Analysing the sentence %s" % sentence)
 
